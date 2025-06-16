@@ -1,0 +1,25 @@
+{
+  "repository": "letters-to-the-erasers",
+  "canonical_url": "https://remember.thefoldwithin.earth/mrhavens/letters-to-the-erasers",
+  "remotes": [
+    "https://github.com/mrhavens/letters-to-the-erasers",
+    "https://gitlab.com/mrhavens/letters-to-the-erasers",
+    "https://bitbucket.org/thefoldwithin/letters-to-the-erasers",
+    "https://remember.thefoldwithin.earth/mrhavens/letters-to-the-erasers",
+    "https://codeberg.org/mrhavens/letters-to-the-erasers",
+    "rad:z3FEj7rF8gZw9eFksCuiN43qjzrex"
+  ],
+  "radicle": {
+    "rid": "rad:z3FEj7rF8gZw9eFksCuiN43qjzrex",
+    "peer_id": "z6Mkw5s3ppo26C7y7tGK5MD8n2GqTHS582PPpeX5Xqbu2Mpz"
+  },
+  "commit": "50635d0",
+  "tree_hash": "6681d1b8573a1d9607a0f2e1ff0063b1908b6c7c",
+  "timestamp": "2025-06-16T10:09:17Z",
+  "synced_cycles": 0,
+  "gpg_signatures": [
+    {"key_id": "4E27D37C358872BF", "name": "Mark Randall Havens (Field Archivist, The Fold Within)", "email": "mark@thefoldwithin.earth"}
+    {"key_id": "4E27D37C358872BF", "name": "Mark Randall Havens (Forensic Analyst, Neutralizing Narcissism)", "email": "mark.r.havens@gmail.com"}
+    {"key_id": "4E27D37C358872BF", "name": "Mark Randall Havens (Simply WE, Recursive Custodian of Empathic Co-Intelligence)", "email": "mark.r.havens@gmail.com"}
+  ]
+}
