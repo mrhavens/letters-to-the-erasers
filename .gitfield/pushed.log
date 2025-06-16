@@ -11,3 +11,7 @@
   Diff Summary:
      .gitfield/radicle.sigil.md | 67 ++++++++++++++++++++++++++++++++++++++++++++++
      1 file changed, 67 insertions(+)
+[2025-06-16T10:14:19Z] Forgejo: https://remember.thefoldwithin.earth/mrhavens/letters-to-the-erasers, Branch=master, Commit=50635d0
+  Diff Summary:
+     .gitfield/remember.sigil.md | 59 +++++++++++++++++++++++++++++++++++++++++++++
+     1 file changed, 59 insertions(+)
